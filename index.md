@@ -1,8 +1,10 @@
-# Goodman Lab
+---
+layout: home
+title: Goodman Lab
+---
 
-Disease ecology × animal behavior
+## Disease Ecology
 
-We study how animal behavior and environmental conditions shape disease transmission and wildlife health, with a focus on host–parasite interactions.
+I am a disease ecologist interested in the intersection between parasites, environments, disease, and behavior. 
 
-Utah State University — Price campus
-
+**Utah State University — Price campus**
