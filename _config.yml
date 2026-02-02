@@ -1,0 +1,21 @@
+title: Goodman Lab
+description: Disease ecology • Animal Behavior • Wildlife Health
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: Dr. Graham Goodman
+
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: People
+    url: /people/
+  - title: Publications
+    url: /publications/
+  - title: Contact
+    url: /contact/
